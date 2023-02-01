@@ -1,6 +1,6 @@
-# Iosevka-ss17 WebFont 17.1.0
+# Iosevka SS17 WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Iosevka-ss17/Iosevka-ss17.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Iosevka ss17 Web'` or `font-family: 'Iosevka ss17 Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/iosevka-ss17/iosevka-ss17.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka SS17 Web'` or `font-family: 'Iosevka SS17 Web'`.
